@@ -1,4 +1,7 @@
 ## Hi there 👋
 
-[![Estatísticas do GitHub](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="./profile/stats.svg" width="100%" />
+  <br>
+  <img src="./profile/top-langs.svg" width="100%" />
+</p>
