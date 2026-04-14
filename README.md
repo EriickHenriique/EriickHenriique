@@ -1,5 +1,15 @@
 ## Erick Silva | Data Analyst | Analytics Engineer | Data Engineer
 
+Sou um profissional focado em Dados, Negócios e Estratégia, com experiência em transformar dados em decisões que geram impacto real. Atuo com análise de dados, engenharia de dados e inteligência de negócios, sempre buscando eficiência, escalabilidade e geração de valor.
+
+Tenho experiência na construção de pipelines de dados utilizando Python, DBT, SQL, Airflow e AWS, além de desenvolver análises estratégicas envolvendo métricas e indicadores. Também trabalho com visualização de dados (Power BI, Metabase, Looker e Streamlit) e apoio direto na tomada de decisão em ambientes dinâmicos.
+
+Gosto de resolver problemas complexos, otimizar processos e construir soluções orientadas a dados. Atualmente, também atuo com metodologias ágeis, facilitando a organização e entrega de times técnicos.
+
+🚀 Sempre aprendendo, construindo e evoluindo no ecossistema de dados.
+
+##
+
 <div align="center">
   <table border="0">
     <tr>
@@ -22,7 +32,8 @@
   <img alt="aws" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img alt="duckdb" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg">
   <img alt="pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-  <img alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">  
+  <img alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"> 
+  <img alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">    
 </div>
 
 ##
