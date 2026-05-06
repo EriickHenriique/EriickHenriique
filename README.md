@@ -33,7 +33,8 @@ Gosto de resolver problemas complexos, otimizar processos e construir soluções
   <img alt="duckdb" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg">
   <img alt="pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
   <img alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"> 
-  <img alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">    
+  <img alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg"> 
+  <img alt="fastapi" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 </div>
 
 ##
