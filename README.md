@@ -11,18 +11,6 @@ Gosto de resolver problemas complexos, otimizar processos e construir soluções
 ##
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="./profile/stats.svg" height="195" />
-      </td>
-      <td>
-        <img src="./profile/top-langs.svg" height="195" />
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
   <img alt="python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img alt="jupyter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img alt="terraform" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg">
